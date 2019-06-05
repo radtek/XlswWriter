@@ -11,53 +11,53 @@
 		2FF9F26122A7CAC0006B9E84 /* XlswWriterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F26022A7CAC0006B9E84 /* XlswWriterTests.swift */; };
 		2FF9F26322A7CAC0006B9E84 /* XlswWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F25522A7CAC0006B9E84 /* XlswWriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2FF9F26D22A7CB3E006B9E84 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2FF9F26C22A7CB3E006B9E84 /* README.md */; };
-		2FF9F2A722A7CCFE006B9E84 /* workbook.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27122A7CCFD006B9E84 /* workbook.h */; };
-		2FF9F2A822A7CCFE006B9E84 /* theme.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27222A7CCFD006B9E84 /* theme.h */; };
-		2FF9F2A922A7CCFE006B9E84 /* custom.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27322A7CCFD006B9E84 /* custom.h */; };
-		2FF9F2AA22A7CCFE006B9E84 /* core.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27422A7CCFD006B9E84 /* core.h */; };
-		2FF9F2AB22A7CCFE006B9E84 /* drawing.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27522A7CCFD006B9E84 /* drawing.h */; };
-		2FF9F2AC22A7CCFE006B9E84 /* worksheet.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27622A7CCFD006B9E84 /* worksheet.h */; };
-		2FF9F2AD22A7CCFE006B9E84 /* chart.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27722A7CCFD006B9E84 /* chart.h */; };
-		2FF9F2AE22A7CCFE006B9E84 /* content_types.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27822A7CCFD006B9E84 /* content_types.h */; };
-		2FF9F2AF22A7CCFE006B9E84 /* app.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27922A7CCFE006B9E84 /* app.h */; };
-		2FF9F2B022A7CCFE006B9E84 /* relationships.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27A22A7CCFE006B9E84 /* relationships.h */; };
-		2FF9F2B122A7CCFE006B9E84 /* styles.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27B22A7CCFE006B9E84 /* styles.h */; };
-		2FF9F2B222A7CCFE006B9E84 /* hash_table.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27C22A7CCFE006B9E84 /* hash_table.h */; };
-		2FF9F2B322A7CCFE006B9E84 /* packager.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27D22A7CCFE006B9E84 /* packager.h */; };
-		2FF9F2B422A7CCFE006B9E84 /* tree.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F27F22A7CCFE006B9E84 /* tree.h */; };
-		2FF9F2B522A7CCFE006B9E84 /* zip.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28022A7CCFE006B9E84 /* zip.h */; };
-		2FF9F2B622A7CCFE006B9E84 /* tmpfileplus.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28122A7CCFE006B9E84 /* tmpfileplus.h */; };
-		2FF9F2B722A7CCFE006B9E84 /* ioapi.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28222A7CCFE006B9E84 /* ioapi.h */; };
-		2FF9F2B822A7CCFE006B9E84 /* queue.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28322A7CCFE006B9E84 /* queue.h */; };
-		2FF9F2B922A7CCFE006B9E84 /* common.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28422A7CCFE006B9E84 /* common.h */; };
-		2FF9F2BA22A7CCFE006B9E84 /* shared_strings.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28522A7CCFE006B9E84 /* shared_strings.h */; };
-		2FF9F2BB22A7CCFE006B9E84 /* libxlsxwriter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28622A7CCFE006B9E84 /* libxlsxwriter-umbrella.h */; };
-		2FF9F2BC22A7CCFE006B9E84 /* format.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28722A7CCFE006B9E84 /* format.h */; };
-		2FF9F2BD22A7CCFE006B9E84 /* utility.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28822A7CCFE006B9E84 /* utility.h */; };
-		2FF9F2BE22A7CCFE006B9E84 /* xmlwriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28922A7CCFE006B9E84 /* xmlwriter.h */; };
-		2FF9F2BF22A7CCFE006B9E84 /* xlsxwriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F28A22A7CCFE006B9E84 /* xlsxwriter.h */; };
-		2FF9F2C022A7CCFE006B9E84 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 2FF9F28B22A7CCFE006B9E84 /* Readme.md */; };
-		2FF9F2C122A7CCFE006B9E84 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F28E22A7CCFE006B9E84 /* zip.c */; };
-		2FF9F2C222A7CCFE006B9E84 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F28F22A7CCFE006B9E84 /* ioapi.c */; };
-		2FF9F2C322A7CCFE006B9E84 /* tmpfileplus.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29122A7CCFE006B9E84 /* tmpfileplus.c */; };
-		2FF9F2C422A7CCFE006B9E84 /* License.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2FF9F29222A7CCFE006B9E84 /* License.txt */; };
-		2FF9F2C522A7CCFE006B9E84 /* shared_strings.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29622A7CCFE006B9E84 /* shared_strings.c */; };
-		2FF9F2C622A7CCFE006B9E84 /* packager.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29722A7CCFE006B9E84 /* packager.c */; };
-		2FF9F2C722A7CCFE006B9E84 /* utility.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29822A7CCFE006B9E84 /* utility.c */; };
-		2FF9F2C822A7CCFE006B9E84 /* format.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29922A7CCFE006B9E84 /* format.c */; };
-		2FF9F2C922A7CCFE006B9E84 /* xmlwriter.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29A22A7CCFE006B9E84 /* xmlwriter.c */; };
-		2FF9F2CA22A7CCFE006B9E84 /* core.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29B22A7CCFE006B9E84 /* core.c */; };
-		2FF9F2CB22A7CCFE006B9E84 /* theme.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29C22A7CCFE006B9E84 /* theme.c */; };
-		2FF9F2CC22A7CCFE006B9E84 /* custom.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29D22A7CCFE006B9E84 /* custom.c */; };
-		2FF9F2CD22A7CCFE006B9E84 /* workbook.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29E22A7CCFE006B9E84 /* workbook.c */; };
-		2FF9F2CE22A7CCFE006B9E84 /* worksheet.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F29F22A7CCFE006B9E84 /* worksheet.c */; };
-		2FF9F2CF22A7CCFE006B9E84 /* drawing.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2A022A7CCFE006B9E84 /* drawing.c */; };
-		2FF9F2D022A7CCFE006B9E84 /* chart.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2A122A7CCFE006B9E84 /* chart.c */; };
-		2FF9F2D122A7CCFE006B9E84 /* hash_table.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2A222A7CCFE006B9E84 /* hash_table.c */; };
-		2FF9F2D222A7CCFE006B9E84 /* styles.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2A322A7CCFE006B9E84 /* styles.c */; };
-		2FF9F2D322A7CCFE006B9E84 /* relationships.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2A422A7CCFE006B9E84 /* relationships.c */; };
-		2FF9F2D422A7CCFE006B9E84 /* content_types.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2A522A7CCFE006B9E84 /* content_types.c */; };
-		2FF9F2D522A7CCFE006B9E84 /* app.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2A622A7CCFE006B9E84 /* app.c */; };
+		2FF9F30F22A7D007006B9E84 /* workbook.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2D922A7D006006B9E84 /* workbook.h */; };
+		2FF9F31022A7D007006B9E84 /* theme.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2DA22A7D006006B9E84 /* theme.h */; };
+		2FF9F31122A7D007006B9E84 /* custom.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2DB22A7D006006B9E84 /* custom.h */; };
+		2FF9F31222A7D007006B9E84 /* core.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2DC22A7D006006B9E84 /* core.h */; };
+		2FF9F31322A7D007006B9E84 /* drawing.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2DD22A7D006006B9E84 /* drawing.h */; };
+		2FF9F31422A7D007006B9E84 /* worksheet.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2DE22A7D006006B9E84 /* worksheet.h */; };
+		2FF9F31522A7D007006B9E84 /* chart.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2DF22A7D006006B9E84 /* chart.h */; };
+		2FF9F31622A7D007006B9E84 /* content_types.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E022A7D006006B9E84 /* content_types.h */; };
+		2FF9F31722A7D007006B9E84 /* app.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E122A7D006006B9E84 /* app.h */; };
+		2FF9F31822A7D007006B9E84 /* relationships.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E222A7D006006B9E84 /* relationships.h */; };
+		2FF9F31922A7D007006B9E84 /* styles.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E322A7D006006B9E84 /* styles.h */; };
+		2FF9F31A22A7D007006B9E84 /* hash_table.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E422A7D006006B9E84 /* hash_table.h */; };
+		2FF9F31B22A7D007006B9E84 /* packager.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E522A7D006006B9E84 /* packager.h */; };
+		2FF9F31C22A7D007006B9E84 /* tree.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E722A7D006006B9E84 /* tree.h */; };
+		2FF9F31D22A7D007006B9E84 /* zip.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E822A7D006006B9E84 /* zip.h */; };
+		2FF9F31E22A7D007006B9E84 /* tmpfileplus.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2E922A7D006006B9E84 /* tmpfileplus.h */; };
+		2FF9F31F22A7D007006B9E84 /* ioapi.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2EA22A7D006006B9E84 /* ioapi.h */; };
+		2FF9F32022A7D007006B9E84 /* queue.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2EB22A7D006006B9E84 /* queue.h */; };
+		2FF9F32122A7D007006B9E84 /* common.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2EC22A7D006006B9E84 /* common.h */; };
+		2FF9F32222A7D007006B9E84 /* shared_strings.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2ED22A7D006006B9E84 /* shared_strings.h */; };
+		2FF9F32322A7D007006B9E84 /* libxlsxwriter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2EE22A7D006006B9E84 /* libxlsxwriter-umbrella.h */; };
+		2FF9F32422A7D007006B9E84 /* format.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2EF22A7D006006B9E84 /* format.h */; };
+		2FF9F32522A7D007006B9E84 /* utility.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2F022A7D006006B9E84 /* utility.h */; };
+		2FF9F32622A7D007006B9E84 /* xmlwriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2F122A7D006006B9E84 /* xmlwriter.h */; };
+		2FF9F32722A7D007006B9E84 /* xlsxwriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 2FF9F2F222A7D006006B9E84 /* xlsxwriter.h */; };
+		2FF9F32822A7D007006B9E84 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 2FF9F2F322A7D006006B9E84 /* Readme.md */; };
+		2FF9F32922A7D007006B9E84 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2F622A7D006006B9E84 /* zip.c */; };
+		2FF9F32A22A7D007006B9E84 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2F722A7D006006B9E84 /* ioapi.c */; };
+		2FF9F32B22A7D007006B9E84 /* tmpfileplus.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2F922A7D006006B9E84 /* tmpfileplus.c */; };
+		2FF9F32C22A7D007006B9E84 /* License.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2FF9F2FA22A7D006006B9E84 /* License.txt */; };
+		2FF9F32D22A7D007006B9E84 /* shared_strings.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2FE22A7D006006B9E84 /* shared_strings.c */; };
+		2FF9F32E22A7D007006B9E84 /* packager.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F2FF22A7D006006B9E84 /* packager.c */; };
+		2FF9F32F22A7D007006B9E84 /* utility.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30022A7D006006B9E84 /* utility.c */; };
+		2FF9F33022A7D007006B9E84 /* format.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30122A7D006006B9E84 /* format.c */; };
+		2FF9F33122A7D007006B9E84 /* xmlwriter.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30222A7D006006B9E84 /* xmlwriter.c */; };
+		2FF9F33222A7D007006B9E84 /* core.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30322A7D006006B9E84 /* core.c */; };
+		2FF9F33322A7D007006B9E84 /* theme.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30422A7D006006B9E84 /* theme.c */; };
+		2FF9F33422A7D007006B9E84 /* custom.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30522A7D007006B9E84 /* custom.c */; };
+		2FF9F33522A7D007006B9E84 /* workbook.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30622A7D007006B9E84 /* workbook.c */; };
+		2FF9F33622A7D007006B9E84 /* worksheet.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30722A7D007006B9E84 /* worksheet.c */; };
+		2FF9F33722A7D007006B9E84 /* drawing.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30822A7D007006B9E84 /* drawing.c */; };
+		2FF9F33822A7D007006B9E84 /* chart.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30922A7D007006B9E84 /* chart.c */; };
+		2FF9F33922A7D007006B9E84 /* hash_table.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30A22A7D007006B9E84 /* hash_table.c */; };
+		2FF9F33A22A7D007006B9E84 /* styles.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30B22A7D007006B9E84 /* styles.c */; };
+		2FF9F33B22A7D007006B9E84 /* relationships.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30C22A7D007006B9E84 /* relationships.c */; };
+		2FF9F33C22A7D007006B9E84 /* content_types.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30D22A7D007006B9E84 /* content_types.c */; };
+		2FF9F33D22A7D007006B9E84 /* app.c in Sources */ = {isa = PBXBuildFile; fileRef = 2FF9F30E22A7D007006B9E84 /* app.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,54 +78,54 @@
 		2FF9F26022A7CAC0006B9E84 /* XlswWriterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XlswWriterTests.swift; sourceTree = "<group>"; };
 		2FF9F26222A7CAC0006B9E84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2FF9F26C22A7CB3E006B9E84 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		2FF9F27122A7CCFD006B9E84 /* workbook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = workbook.h; sourceTree = "<group>"; };
-		2FF9F27222A7CCFD006B9E84 /* theme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = theme.h; sourceTree = "<group>"; };
-		2FF9F27322A7CCFD006B9E84 /* custom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = custom.h; sourceTree = "<group>"; };
-		2FF9F27422A7CCFD006B9E84 /* core.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = core.h; sourceTree = "<group>"; };
-		2FF9F27522A7CCFD006B9E84 /* drawing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = drawing.h; sourceTree = "<group>"; };
-		2FF9F27622A7CCFD006B9E84 /* worksheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = worksheet.h; sourceTree = "<group>"; };
-		2FF9F27722A7CCFD006B9E84 /* chart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = chart.h; sourceTree = "<group>"; };
-		2FF9F27822A7CCFD006B9E84 /* content_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = content_types.h; sourceTree = "<group>"; };
-		2FF9F27922A7CCFE006B9E84 /* app.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = app.h; sourceTree = "<group>"; };
-		2FF9F27A22A7CCFE006B9E84 /* relationships.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = relationships.h; sourceTree = "<group>"; };
-		2FF9F27B22A7CCFE006B9E84 /* styles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = styles.h; sourceTree = "<group>"; };
-		2FF9F27C22A7CCFE006B9E84 /* hash_table.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hash_table.h; sourceTree = "<group>"; };
-		2FF9F27D22A7CCFE006B9E84 /* packager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = packager.h; sourceTree = "<group>"; };
-		2FF9F27F22A7CCFE006B9E84 /* tree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tree.h; sourceTree = "<group>"; };
-		2FF9F28022A7CCFE006B9E84 /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
-		2FF9F28122A7CCFE006B9E84 /* tmpfileplus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tmpfileplus.h; sourceTree = "<group>"; };
-		2FF9F28222A7CCFE006B9E84 /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
-		2FF9F28322A7CCFE006B9E84 /* queue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = queue.h; sourceTree = "<group>"; };
-		2FF9F28422A7CCFE006B9E84 /* common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = common.h; sourceTree = "<group>"; };
-		2FF9F28522A7CCFE006B9E84 /* shared_strings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shared_strings.h; sourceTree = "<group>"; };
-		2FF9F28622A7CCFE006B9E84 /* libxlsxwriter-umbrella.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "libxlsxwriter-umbrella.h"; sourceTree = "<group>"; };
-		2FF9F28722A7CCFE006B9E84 /* format.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = format.h; sourceTree = "<group>"; };
-		2FF9F28822A7CCFE006B9E84 /* utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = utility.h; sourceTree = "<group>"; };
-		2FF9F28922A7CCFE006B9E84 /* xmlwriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xmlwriter.h; sourceTree = "<group>"; };
-		2FF9F28A22A7CCFE006B9E84 /* xlsxwriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xlsxwriter.h; sourceTree = "<group>"; };
-		2FF9F28B22A7CCFE006B9E84 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
-		2FF9F28E22A7CCFE006B9E84 /* zip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = zip.c; sourceTree = "<group>"; };
-		2FF9F28F22A7CCFE006B9E84 /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
-		2FF9F29122A7CCFE006B9E84 /* tmpfileplus.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = tmpfileplus.c; sourceTree = "<group>"; };
-		2FF9F29222A7CCFE006B9E84 /* License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = License.txt; sourceTree = "<group>"; };
-		2FF9F29422A7CCFE006B9E84 /* libxlsxwriter.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = libxlsxwriter.modulemap; sourceTree = "<group>"; };
-		2FF9F29622A7CCFE006B9E84 /* shared_strings.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = shared_strings.c; sourceTree = "<group>"; };
-		2FF9F29722A7CCFE006B9E84 /* packager.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = packager.c; sourceTree = "<group>"; };
-		2FF9F29822A7CCFE006B9E84 /* utility.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = utility.c; sourceTree = "<group>"; };
-		2FF9F29922A7CCFE006B9E84 /* format.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = format.c; sourceTree = "<group>"; };
-		2FF9F29A22A7CCFE006B9E84 /* xmlwriter.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = xmlwriter.c; sourceTree = "<group>"; };
-		2FF9F29B22A7CCFE006B9E84 /* core.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = core.c; sourceTree = "<group>"; };
-		2FF9F29C22A7CCFE006B9E84 /* theme.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = theme.c; sourceTree = "<group>"; };
-		2FF9F29D22A7CCFE006B9E84 /* custom.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = custom.c; sourceTree = "<group>"; };
-		2FF9F29E22A7CCFE006B9E84 /* workbook.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = workbook.c; sourceTree = "<group>"; };
-		2FF9F29F22A7CCFE006B9E84 /* worksheet.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = worksheet.c; sourceTree = "<group>"; };
-		2FF9F2A022A7CCFE006B9E84 /* drawing.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = drawing.c; sourceTree = "<group>"; };
-		2FF9F2A122A7CCFE006B9E84 /* chart.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = chart.c; sourceTree = "<group>"; };
-		2FF9F2A222A7CCFE006B9E84 /* hash_table.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = hash_table.c; sourceTree = "<group>"; };
-		2FF9F2A322A7CCFE006B9E84 /* styles.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = styles.c; sourceTree = "<group>"; };
-		2FF9F2A422A7CCFE006B9E84 /* relationships.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = relationships.c; sourceTree = "<group>"; };
-		2FF9F2A522A7CCFE006B9E84 /* content_types.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = content_types.c; sourceTree = "<group>"; };
-		2FF9F2A622A7CCFE006B9E84 /* app.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = app.c; sourceTree = "<group>"; };
+		2FF9F2D922A7D006006B9E84 /* workbook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = workbook.h; sourceTree = "<group>"; };
+		2FF9F2DA22A7D006006B9E84 /* theme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = theme.h; sourceTree = "<group>"; };
+		2FF9F2DB22A7D006006B9E84 /* custom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = custom.h; sourceTree = "<group>"; };
+		2FF9F2DC22A7D006006B9E84 /* core.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = core.h; sourceTree = "<group>"; };
+		2FF9F2DD22A7D006006B9E84 /* drawing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = drawing.h; sourceTree = "<group>"; };
+		2FF9F2DE22A7D006006B9E84 /* worksheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = worksheet.h; sourceTree = "<group>"; };
+		2FF9F2DF22A7D006006B9E84 /* chart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = chart.h; sourceTree = "<group>"; };
+		2FF9F2E022A7D006006B9E84 /* content_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = content_types.h; sourceTree = "<group>"; };
+		2FF9F2E122A7D006006B9E84 /* app.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = app.h; sourceTree = "<group>"; };
+		2FF9F2E222A7D006006B9E84 /* relationships.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = relationships.h; sourceTree = "<group>"; };
+		2FF9F2E322A7D006006B9E84 /* styles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = styles.h; sourceTree = "<group>"; };
+		2FF9F2E422A7D006006B9E84 /* hash_table.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hash_table.h; sourceTree = "<group>"; };
+		2FF9F2E522A7D006006B9E84 /* packager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = packager.h; sourceTree = "<group>"; };
+		2FF9F2E722A7D006006B9E84 /* tree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tree.h; sourceTree = "<group>"; };
+		2FF9F2E822A7D006006B9E84 /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
+		2FF9F2E922A7D006006B9E84 /* tmpfileplus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tmpfileplus.h; sourceTree = "<group>"; };
+		2FF9F2EA22A7D006006B9E84 /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
+		2FF9F2EB22A7D006006B9E84 /* queue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = queue.h; sourceTree = "<group>"; };
+		2FF9F2EC22A7D006006B9E84 /* common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = common.h; sourceTree = "<group>"; };
+		2FF9F2ED22A7D006006B9E84 /* shared_strings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shared_strings.h; sourceTree = "<group>"; };
+		2FF9F2EE22A7D006006B9E84 /* libxlsxwriter-umbrella.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "libxlsxwriter-umbrella.h"; sourceTree = "<group>"; };
+		2FF9F2EF22A7D006006B9E84 /* format.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = format.h; sourceTree = "<group>"; };
+		2FF9F2F022A7D006006B9E84 /* utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = utility.h; sourceTree = "<group>"; };
+		2FF9F2F122A7D006006B9E84 /* xmlwriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xmlwriter.h; sourceTree = "<group>"; };
+		2FF9F2F222A7D006006B9E84 /* xlsxwriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xlsxwriter.h; sourceTree = "<group>"; };
+		2FF9F2F322A7D006006B9E84 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		2FF9F2F622A7D006006B9E84 /* zip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = zip.c; sourceTree = "<group>"; };
+		2FF9F2F722A7D006006B9E84 /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
+		2FF9F2F922A7D006006B9E84 /* tmpfileplus.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = tmpfileplus.c; sourceTree = "<group>"; };
+		2FF9F2FA22A7D006006B9E84 /* License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = License.txt; sourceTree = "<group>"; };
+		2FF9F2FC22A7D006006B9E84 /* libxlsxwriter.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = libxlsxwriter.modulemap; sourceTree = "<group>"; };
+		2FF9F2FE22A7D006006B9E84 /* shared_strings.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = shared_strings.c; sourceTree = "<group>"; };
+		2FF9F2FF22A7D006006B9E84 /* packager.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = packager.c; sourceTree = "<group>"; };
+		2FF9F30022A7D006006B9E84 /* utility.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = utility.c; sourceTree = "<group>"; };
+		2FF9F30122A7D006006B9E84 /* format.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = format.c; sourceTree = "<group>"; };
+		2FF9F30222A7D006006B9E84 /* xmlwriter.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = xmlwriter.c; sourceTree = "<group>"; };
+		2FF9F30322A7D006006B9E84 /* core.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = core.c; sourceTree = "<group>"; };
+		2FF9F30422A7D006006B9E84 /* theme.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = theme.c; sourceTree = "<group>"; };
+		2FF9F30522A7D007006B9E84 /* custom.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = custom.c; sourceTree = "<group>"; };
+		2FF9F30622A7D007006B9E84 /* workbook.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = workbook.c; sourceTree = "<group>"; };
+		2FF9F30722A7D007006B9E84 /* worksheet.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = worksheet.c; sourceTree = "<group>"; };
+		2FF9F30822A7D007006B9E84 /* drawing.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = drawing.c; sourceTree = "<group>"; };
+		2FF9F30922A7D007006B9E84 /* chart.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = chart.c; sourceTree = "<group>"; };
+		2FF9F30A22A7D007006B9E84 /* hash_table.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = hash_table.c; sourceTree = "<group>"; };
+		2FF9F30B22A7D007006B9E84 /* styles.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = styles.c; sourceTree = "<group>"; };
+		2FF9F30C22A7D007006B9E84 /* relationships.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = relationships.c; sourceTree = "<group>"; };
+		2FF9F30D22A7D007006B9E84 /* content_types.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = content_types.c; sourceTree = "<group>"; };
+		2FF9F30E22A7D007006B9E84 /* app.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = app.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,7 +171,7 @@
 			children = (
 				2FF9F25522A7CAC0006B9E84 /* XlswWriter.h */,
 				2FF9F25622A7CAC0006B9E84 /* Info.plist */,
-				2FF9F26E22A7CCFD006B9E84 /* libxlsxwriter */,
+				2FF9F2D622A7D006006B9E84 /* libxlsxwriter */,
 			);
 			path = XlswWriter;
 			sourceTree = "<group>";
@@ -185,121 +185,121 @@
 			path = XlswWriterTests;
 			sourceTree = "<group>";
 		};
-		2FF9F26E22A7CCFD006B9E84 /* libxlsxwriter */ = {
+		2FF9F2D622A7D006006B9E84 /* libxlsxwriter */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F26F22A7CCFD006B9E84 /* include */,
-				2FF9F28B22A7CCFE006B9E84 /* Readme.md */,
-				2FF9F28C22A7CCFE006B9E84 /* third_party */,
-				2FF9F29222A7CCFE006B9E84 /* License.txt */,
-				2FF9F29322A7CCFE006B9E84 /* cocoapods */,
-				2FF9F29522A7CCFE006B9E84 /* src */,
+				2FF9F2D722A7D006006B9E84 /* include */,
+				2FF9F2F322A7D006006B9E84 /* Readme.md */,
+				2FF9F2F422A7D006006B9E84 /* third_party */,
+				2FF9F2FA22A7D006006B9E84 /* License.txt */,
+				2FF9F2FB22A7D006006B9E84 /* cocoapods */,
+				2FF9F2FD22A7D006006B9E84 /* src */,
 			);
 			path = libxlsxwriter;
 			sourceTree = "<group>";
 		};
-		2FF9F26F22A7CCFD006B9E84 /* include */ = {
+		2FF9F2D722A7D006006B9E84 /* include */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F27022A7CCFD006B9E84 /* xlsxwriter */,
-				2FF9F28A22A7CCFE006B9E84 /* xlsxwriter.h */,
+				2FF9F2D822A7D006006B9E84 /* xlsxwriter */,
+				2FF9F2F222A7D006006B9E84 /* xlsxwriter.h */,
 			);
 			path = include;
 			sourceTree = "<group>";
 		};
-		2FF9F27022A7CCFD006B9E84 /* xlsxwriter */ = {
+		2FF9F2D822A7D006006B9E84 /* xlsxwriter */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F27122A7CCFD006B9E84 /* workbook.h */,
-				2FF9F27222A7CCFD006B9E84 /* theme.h */,
-				2FF9F27322A7CCFD006B9E84 /* custom.h */,
-				2FF9F27422A7CCFD006B9E84 /* core.h */,
-				2FF9F27522A7CCFD006B9E84 /* drawing.h */,
-				2FF9F27622A7CCFD006B9E84 /* worksheet.h */,
-				2FF9F27722A7CCFD006B9E84 /* chart.h */,
-				2FF9F27822A7CCFD006B9E84 /* content_types.h */,
-				2FF9F27922A7CCFE006B9E84 /* app.h */,
-				2FF9F27A22A7CCFE006B9E84 /* relationships.h */,
-				2FF9F27B22A7CCFE006B9E84 /* styles.h */,
-				2FF9F27C22A7CCFE006B9E84 /* hash_table.h */,
-				2FF9F27D22A7CCFE006B9E84 /* packager.h */,
-				2FF9F27E22A7CCFE006B9E84 /* third_party */,
-				2FF9F28422A7CCFE006B9E84 /* common.h */,
-				2FF9F28522A7CCFE006B9E84 /* shared_strings.h */,
-				2FF9F28622A7CCFE006B9E84 /* libxlsxwriter-umbrella.h */,
-				2FF9F28722A7CCFE006B9E84 /* format.h */,
-				2FF9F28822A7CCFE006B9E84 /* utility.h */,
-				2FF9F28922A7CCFE006B9E84 /* xmlwriter.h */,
+				2FF9F2D922A7D006006B9E84 /* workbook.h */,
+				2FF9F2DA22A7D006006B9E84 /* theme.h */,
+				2FF9F2DB22A7D006006B9E84 /* custom.h */,
+				2FF9F2DC22A7D006006B9E84 /* core.h */,
+				2FF9F2DD22A7D006006B9E84 /* drawing.h */,
+				2FF9F2DE22A7D006006B9E84 /* worksheet.h */,
+				2FF9F2DF22A7D006006B9E84 /* chart.h */,
+				2FF9F2E022A7D006006B9E84 /* content_types.h */,
+				2FF9F2E122A7D006006B9E84 /* app.h */,
+				2FF9F2E222A7D006006B9E84 /* relationships.h */,
+				2FF9F2E322A7D006006B9E84 /* styles.h */,
+				2FF9F2E422A7D006006B9E84 /* hash_table.h */,
+				2FF9F2E522A7D006006B9E84 /* packager.h */,
+				2FF9F2E622A7D006006B9E84 /* third_party */,
+				2FF9F2EC22A7D006006B9E84 /* common.h */,
+				2FF9F2ED22A7D006006B9E84 /* shared_strings.h */,
+				2FF9F2EE22A7D006006B9E84 /* libxlsxwriter-umbrella.h */,
+				2FF9F2EF22A7D006006B9E84 /* format.h */,
+				2FF9F2F022A7D006006B9E84 /* utility.h */,
+				2FF9F2F122A7D006006B9E84 /* xmlwriter.h */,
 			);
 			path = xlsxwriter;
 			sourceTree = "<group>";
 		};
-		2FF9F27E22A7CCFE006B9E84 /* third_party */ = {
+		2FF9F2E622A7D006006B9E84 /* third_party */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F27F22A7CCFE006B9E84 /* tree.h */,
-				2FF9F28022A7CCFE006B9E84 /* zip.h */,
-				2FF9F28122A7CCFE006B9E84 /* tmpfileplus.h */,
-				2FF9F28222A7CCFE006B9E84 /* ioapi.h */,
-				2FF9F28322A7CCFE006B9E84 /* queue.h */,
+				2FF9F2E722A7D006006B9E84 /* tree.h */,
+				2FF9F2E822A7D006006B9E84 /* zip.h */,
+				2FF9F2E922A7D006006B9E84 /* tmpfileplus.h */,
+				2FF9F2EA22A7D006006B9E84 /* ioapi.h */,
+				2FF9F2EB22A7D006006B9E84 /* queue.h */,
 			);
 			path = third_party;
 			sourceTree = "<group>";
 		};
-		2FF9F28C22A7CCFE006B9E84 /* third_party */ = {
+		2FF9F2F422A7D006006B9E84 /* third_party */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F28D22A7CCFE006B9E84 /* minizip */,
-				2FF9F29022A7CCFE006B9E84 /* tmpfileplus */,
+				2FF9F2F522A7D006006B9E84 /* minizip */,
+				2FF9F2F822A7D006006B9E84 /* tmpfileplus */,
 			);
 			path = third_party;
 			sourceTree = "<group>";
 		};
-		2FF9F28D22A7CCFE006B9E84 /* minizip */ = {
+		2FF9F2F522A7D006006B9E84 /* minizip */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F28E22A7CCFE006B9E84 /* zip.c */,
-				2FF9F28F22A7CCFE006B9E84 /* ioapi.c */,
+				2FF9F2F622A7D006006B9E84 /* zip.c */,
+				2FF9F2F722A7D006006B9E84 /* ioapi.c */,
 			);
 			path = minizip;
 			sourceTree = "<group>";
 		};
-		2FF9F29022A7CCFE006B9E84 /* tmpfileplus */ = {
+		2FF9F2F822A7D006006B9E84 /* tmpfileplus */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F29122A7CCFE006B9E84 /* tmpfileplus.c */,
+				2FF9F2F922A7D006006B9E84 /* tmpfileplus.c */,
 			);
 			path = tmpfileplus;
 			sourceTree = "<group>";
 		};
-		2FF9F29322A7CCFE006B9E84 /* cocoapods */ = {
+		2FF9F2FB22A7D006006B9E84 /* cocoapods */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F29422A7CCFE006B9E84 /* libxlsxwriter.modulemap */,
+				2FF9F2FC22A7D006006B9E84 /* libxlsxwriter.modulemap */,
 			);
 			path = cocoapods;
 			sourceTree = "<group>";
 		};
-		2FF9F29522A7CCFE006B9E84 /* src */ = {
+		2FF9F2FD22A7D006006B9E84 /* src */ = {
 			isa = PBXGroup;
 			children = (
-				2FF9F29622A7CCFE006B9E84 /* shared_strings.c */,
-				2FF9F29722A7CCFE006B9E84 /* packager.c */,
-				2FF9F29822A7CCFE006B9E84 /* utility.c */,
-				2FF9F29922A7CCFE006B9E84 /* format.c */,
-				2FF9F29A22A7CCFE006B9E84 /* xmlwriter.c */,
-				2FF9F29B22A7CCFE006B9E84 /* core.c */,
-				2FF9F29C22A7CCFE006B9E84 /* theme.c */,
-				2FF9F29D22A7CCFE006B9E84 /* custom.c */,
-				2FF9F29E22A7CCFE006B9E84 /* workbook.c */,
-				2FF9F29F22A7CCFE006B9E84 /* worksheet.c */,
-				2FF9F2A022A7CCFE006B9E84 /* drawing.c */,
-				2FF9F2A122A7CCFE006B9E84 /* chart.c */,
-				2FF9F2A222A7CCFE006B9E84 /* hash_table.c */,
-				2FF9F2A322A7CCFE006B9E84 /* styles.c */,
-				2FF9F2A422A7CCFE006B9E84 /* relationships.c */,
-				2FF9F2A522A7CCFE006B9E84 /* content_types.c */,
-				2FF9F2A622A7CCFE006B9E84 /* app.c */,
+				2FF9F2FE22A7D006006B9E84 /* shared_strings.c */,
+				2FF9F2FF22A7D006006B9E84 /* packager.c */,
+				2FF9F30022A7D006006B9E84 /* utility.c */,
+				2FF9F30122A7D006006B9E84 /* format.c */,
+				2FF9F30222A7D006006B9E84 /* xmlwriter.c */,
+				2FF9F30322A7D006006B9E84 /* core.c */,
+				2FF9F30422A7D006006B9E84 /* theme.c */,
+				2FF9F30522A7D007006B9E84 /* custom.c */,
+				2FF9F30622A7D007006B9E84 /* workbook.c */,
+				2FF9F30722A7D007006B9E84 /* worksheet.c */,
+				2FF9F30822A7D007006B9E84 /* drawing.c */,
+				2FF9F30922A7D007006B9E84 /* chart.c */,
+				2FF9F30A22A7D007006B9E84 /* hash_table.c */,
+				2FF9F30B22A7D007006B9E84 /* styles.c */,
+				2FF9F30C22A7D007006B9E84 /* relationships.c */,
+				2FF9F30D22A7D007006B9E84 /* content_types.c */,
+				2FF9F30E22A7D007006B9E84 /* app.c */,
 			);
 			path = src;
 			sourceTree = "<group>";
@@ -311,32 +311,32 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FF9F2AA22A7CCFE006B9E84 /* core.h in Headers */,
-				2FF9F2AB22A7CCFE006B9E84 /* drawing.h in Headers */,
-				2FF9F2A822A7CCFE006B9E84 /* theme.h in Headers */,
-				2FF9F2BD22A7CCFE006B9E84 /* utility.h in Headers */,
-				2FF9F2B722A7CCFE006B9E84 /* ioapi.h in Headers */,
-				2FF9F2B822A7CCFE006B9E84 /* queue.h in Headers */,
-				2FF9F2AC22A7CCFE006B9E84 /* worksheet.h in Headers */,
-				2FF9F2B322A7CCFE006B9E84 /* packager.h in Headers */,
-				2FF9F2AE22A7CCFE006B9E84 /* content_types.h in Headers */,
-				2FF9F2BB22A7CCFE006B9E84 /* libxlsxwriter-umbrella.h in Headers */,
-				2FF9F2A922A7CCFE006B9E84 /* custom.h in Headers */,
-				2FF9F2B222A7CCFE006B9E84 /* hash_table.h in Headers */,
-				2FF9F2BA22A7CCFE006B9E84 /* shared_strings.h in Headers */,
-				2FF9F2AF22A7CCFE006B9E84 /* app.h in Headers */,
-				2FF9F2B922A7CCFE006B9E84 /* common.h in Headers */,
-				2FF9F2B022A7CCFE006B9E84 /* relationships.h in Headers */,
-				2FF9F2B622A7CCFE006B9E84 /* tmpfileplus.h in Headers */,
-				2FF9F2B422A7CCFE006B9E84 /* tree.h in Headers */,
-				2FF9F2A722A7CCFE006B9E84 /* workbook.h in Headers */,
-				2FF9F2BC22A7CCFE006B9E84 /* format.h in Headers */,
-				2FF9F2BE22A7CCFE006B9E84 /* xmlwriter.h in Headers */,
+				2FF9F31222A7D007006B9E84 /* core.h in Headers */,
+				2FF9F31322A7D007006B9E84 /* drawing.h in Headers */,
+				2FF9F31022A7D007006B9E84 /* theme.h in Headers */,
+				2FF9F32522A7D007006B9E84 /* utility.h in Headers */,
+				2FF9F31F22A7D007006B9E84 /* ioapi.h in Headers */,
+				2FF9F32022A7D007006B9E84 /* queue.h in Headers */,
+				2FF9F31422A7D007006B9E84 /* worksheet.h in Headers */,
+				2FF9F31B22A7D007006B9E84 /* packager.h in Headers */,
+				2FF9F31622A7D007006B9E84 /* content_types.h in Headers */,
+				2FF9F32322A7D007006B9E84 /* libxlsxwriter-umbrella.h in Headers */,
+				2FF9F31122A7D007006B9E84 /* custom.h in Headers */,
+				2FF9F31A22A7D007006B9E84 /* hash_table.h in Headers */,
+				2FF9F32222A7D007006B9E84 /* shared_strings.h in Headers */,
+				2FF9F31722A7D007006B9E84 /* app.h in Headers */,
+				2FF9F32122A7D007006B9E84 /* common.h in Headers */,
+				2FF9F31822A7D007006B9E84 /* relationships.h in Headers */,
+				2FF9F31E22A7D007006B9E84 /* tmpfileplus.h in Headers */,
+				2FF9F31C22A7D007006B9E84 /* tree.h in Headers */,
+				2FF9F30F22A7D007006B9E84 /* workbook.h in Headers */,
+				2FF9F32422A7D007006B9E84 /* format.h in Headers */,
+				2FF9F32622A7D007006B9E84 /* xmlwriter.h in Headers */,
 				2FF9F26322A7CAC0006B9E84 /* XlswWriter.h in Headers */,
-				2FF9F2BF22A7CCFE006B9E84 /* xlsxwriter.h in Headers */,
-				2FF9F2B122A7CCFE006B9E84 /* styles.h in Headers */,
-				2FF9F2B522A7CCFE006B9E84 /* zip.h in Headers */,
-				2FF9F2AD22A7CCFE006B9E84 /* chart.h in Headers */,
+				2FF9F32722A7D007006B9E84 /* xlsxwriter.h in Headers */,
+				2FF9F31922A7D007006B9E84 /* styles.h in Headers */,
+				2FF9F31D22A7D007006B9E84 /* zip.h in Headers */,
+				2FF9F31522A7D007006B9E84 /* chart.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,9 +420,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FF9F2C022A7CCFE006B9E84 /* Readme.md in Resources */,
+				2FF9F32822A7D007006B9E84 /* Readme.md in Resources */,
 				2FF9F26D22A7CB3E006B9E84 /* README.md in Resources */,
-				2FF9F2C422A7CCFE006B9E84 /* License.txt in Resources */,
+				2FF9F32C22A7D007006B9E84 /* License.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,26 +440,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FF9F2C722A7CCFE006B9E84 /* utility.c in Sources */,
-				2FF9F2C322A7CCFE006B9E84 /* tmpfileplus.c in Sources */,
-				2FF9F2CF22A7CCFE006B9E84 /* drawing.c in Sources */,
-				2FF9F2CC22A7CCFE006B9E84 /* custom.c in Sources */,
-				2FF9F2C922A7CCFE006B9E84 /* xmlwriter.c in Sources */,
-				2FF9F2D222A7CCFE006B9E84 /* styles.c in Sources */,
-				2FF9F2D422A7CCFE006B9E84 /* content_types.c in Sources */,
-				2FF9F2CE22A7CCFE006B9E84 /* worksheet.c in Sources */,
-				2FF9F2D322A7CCFE006B9E84 /* relationships.c in Sources */,
-				2FF9F2C622A7CCFE006B9E84 /* packager.c in Sources */,
-				2FF9F2C522A7CCFE006B9E84 /* shared_strings.c in Sources */,
-				2FF9F2D522A7CCFE006B9E84 /* app.c in Sources */,
-				2FF9F2D122A7CCFE006B9E84 /* hash_table.c in Sources */,
-				2FF9F2CB22A7CCFE006B9E84 /* theme.c in Sources */,
-				2FF9F2CA22A7CCFE006B9E84 /* core.c in Sources */,
-				2FF9F2C222A7CCFE006B9E84 /* ioapi.c in Sources */,
-				2FF9F2CD22A7CCFE006B9E84 /* workbook.c in Sources */,
-				2FF9F2D022A7CCFE006B9E84 /* chart.c in Sources */,
-				2FF9F2C122A7CCFE006B9E84 /* zip.c in Sources */,
-				2FF9F2C822A7CCFE006B9E84 /* format.c in Sources */,
+				2FF9F32F22A7D007006B9E84 /* utility.c in Sources */,
+				2FF9F32B22A7D007006B9E84 /* tmpfileplus.c in Sources */,
+				2FF9F33722A7D007006B9E84 /* drawing.c in Sources */,
+				2FF9F33422A7D007006B9E84 /* custom.c in Sources */,
+				2FF9F33122A7D007006B9E84 /* xmlwriter.c in Sources */,
+				2FF9F33A22A7D007006B9E84 /* styles.c in Sources */,
+				2FF9F33C22A7D007006B9E84 /* content_types.c in Sources */,
+				2FF9F33622A7D007006B9E84 /* worksheet.c in Sources */,
+				2FF9F33B22A7D007006B9E84 /* relationships.c in Sources */,
+				2FF9F32E22A7D007006B9E84 /* packager.c in Sources */,
+				2FF9F32D22A7D007006B9E84 /* shared_strings.c in Sources */,
+				2FF9F33D22A7D007006B9E84 /* app.c in Sources */,
+				2FF9F33922A7D007006B9E84 /* hash_table.c in Sources */,
+				2FF9F33322A7D007006B9E84 /* theme.c in Sources */,
+				2FF9F33222A7D007006B9E84 /* core.c in Sources */,
+				2FF9F32A22A7D007006B9E84 /* ioapi.c in Sources */,
+				2FF9F33522A7D007006B9E84 /* workbook.c in Sources */,
+				2FF9F33822A7D007006B9E84 /* chart.c in Sources */,
+				2FF9F32922A7D007006B9E84 /* zip.c in Sources */,
+				2FF9F33022A7D007006B9E84 /* format.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
