@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "xlsxwriter/libxlsxwriter-umbrella.h"
 
 //! Project version number for XlswWriter.
 FOUNDATION_EXPORT double XlswWriterVersionNumber;
